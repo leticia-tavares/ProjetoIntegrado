@@ -1,2 +1,3 @@
-# ProjetoIntegrado
-Trabalho referente à disciplina de Projeto Integrado.
+## Detector de Máscara Facial
+Trabalho referente à disciplina de Projeto Integrado. O Projeto tem por objetivo simular 
+um sistema de desbloqueio de entrada de uma pessoa, em um ambiente interno, que esteja utilizando máscara facial.
